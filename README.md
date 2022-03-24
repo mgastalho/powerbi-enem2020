@@ -16,7 +16,7 @@ Para isso, realizei o download dos dados em https://download.inep.gov.br/microda
 
 OBJETIVO: Colocar os dados do CSV em uma base de dados SQL SERVER.
 
-Eu precisava analisar os dados que eu tinha em mãos, mas meu computador não suporta abrir um CSV tão grande. Eu precisava criar a tabela que iria receber esses dados.
+Eu precisava analisar os dados que eu tinha em mãos, mas meu computador não suporta abrir um CSV tão grande. Eu precisava criar a tabela que iria receber esses dados, porém, de forma dinâmica, sem precisar criar a tabela de forma manual antes de rodar a execução do processo.
 No SSI, criei uma tarefa de execução de Script e configurei alguns parâmetros:
 - Tipo de arquivo a ser lido: CSV
 - Localização do arquivo: Pasta onde o arquivo está localizado
