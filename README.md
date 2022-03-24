@@ -26,7 +26,14 @@ No SSI, criei uma tarefa de execução de Script e configurei alguns parâmetros
 Após os registros no banco de dados, pude realizar a construção da minha base de dados. 
 Executei esse pedaço via notebook no AZURE DATA STUDIO
 
-Assim que todos os meus dados estavam na base de dados, finalmente pude ler os registros no Power BI e construir o relatório para responder as perguntas iniciais.
-
+Assim que todos os meus dados estavam na base de dados, finalmente pude ler os registros no Power BI e construir o relatório para responder as perguntas iniciais. 
+OBS: A página de INFLUENCIADORES contém o visual de Key Influencer que não funciona ao publicado na web. 
 Link para o painel do power bi:
 https://bit.ly/PBIenem2020
+Imagens do relatório:
+![image](https://user-images.githubusercontent.com/4998681/159952647-84f526ed-2484-4dd9-86d8-1f187df9f97e.png)
+
+![image](https://user-images.githubusercontent.com/4998681/159952300-6508662d-6db3-41df-ae35-09249143a048.png)
+
+
+
