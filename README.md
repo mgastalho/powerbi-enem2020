@@ -27,3 +27,6 @@ Após os registros no banco de dados, pude realizar a construção da minha base
 Executei esse pedaço via notebook no AZURE DATA STUDIO
 
 Assim que todos os meus dados estavam na base de dados, finalmente pude ler os registros no Power BI e construir o relatório para responder as perguntas iniciais.
+
+Link para o painel do power bi:
+https://bit.ly/PBIenem2020
